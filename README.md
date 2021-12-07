@@ -27,6 +27,7 @@ to download the set of puzzles and one to download the solutions to said puzzles
 <h3>background.png</h3> This file is the image file that serves as a background to the webpages of the site.
 <h3>words ERD.png</h3> This file contains the ER Diagram for the design of the words table within the MySQL Database.
 <h3>quotes ERD.png</h3> This file contains the ER Diagram for the design of the quotes table within the MySQL Database.
+<h3>conjunctions ERD.png</h3> This file contains the ER Diagram for the design of the conjunctions table within the MySQL Database.
 <h3>Chain Puzzle Generating Website Project Main Webpage GUI Mockup.png</h3> This file contains the design of the main webpage.
 <h3>Chain Puzzle Generating Website Project Download Webpage GUI Mockup.png</h3> This file contains the design of the download webpage.
 <h3>Chain Puzzle Generating Website Project Info Webpage GUI Mockup.png</h3> This file contains the general design of the about and info webpages on the site.
