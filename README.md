@@ -16,7 +16,7 @@ It also includes a check-box list in which the user can select the type of puzzl
 <h3>style.css</h3> This file contains the CSS code that accompanies the index.html file and stylizes and formats the main webpage.
 <h3>download.html</h3> This file contains the HTML code for the webpage that a user is taken to when the user chooses to generate puzzles. This webpage contains two main buttons, one
 to download the set of puzzles and one to download the solutions to said puzzles. A back button is present that will take the user back to the main webpage.
-<h3>downloadstyle.css</h3> This file contains the CSS code that accompanies the downloadpage.html file and stylizes and formats the download webpage.
+<h3>downloadstyle2.css</h3> This file contains the CSS code that accompanies the downloadpage.html file and stylizes and formats the download webpage.
 <h3>about.html</h3> This file contains the HTML code for the about page.
 <h3>infostyle.css</h3> This file contains the CSS code that accompanies the various info webpages. This code stylizes and formats the webpage.
 <h3>acrostic.html</h3> This file contains the HTML code for the page that describes acrostic puzzles.
